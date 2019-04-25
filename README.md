@@ -18,6 +18,7 @@ Since this was a university course project, certain limitations were enforced:
 * No changes to database schema (was provided with the assignment)
 * Procedural (and not object-oriented) PHP
 * Directory structure as defined by the assignment
+* SHA-1 for hashing passwords (I know)
 
 ## Configuration and deployment
 Prerequisites:
