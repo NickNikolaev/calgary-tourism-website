@@ -15,10 +15,12 @@ Additional requirements (briefly):
 ## Limitations
 Since this was a university course project, certain limitations were enforced:
 * No third-party libraries or frameworks
-* No changes to database schema (was provided with the assignment)
+* Floats for layouts (no flexbox or grid)
+* No changes to the database schema (was provided with the assignment)
 * Procedural (and not object-oriented) PHP
 * Directory structure as defined by the assignment
 * SHA-1 for hashing passwords (I know)
+* No unit tests
 
 ## Configuration and deployment
 Prerequisites:
